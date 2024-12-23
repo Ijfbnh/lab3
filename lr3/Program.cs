@@ -32,5 +32,11 @@ internal class Program
         Console.WriteLine("задание8:");
         lr3.task8();
         Console.ReadLine();
+        Console.WriteLine("задание9:");
+        lr3.task9();
+        Console.ReadLine();
+        Console.WriteLine("задание10:");
+        lr3.task10();
+        Console.ReadLine();
     }
 }
